@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	font-size: 18px;
-	font-family: 'Source Code Pro', sans-serif;
+	font-family: 'Century Gothic', sans-serif;
 	color: #2e354f;
 }
 
@@ -28,6 +28,7 @@ h2 {
 a {
 	color: #ef5839;
 	font-weight: 600;
+	text-decoration: none;
 }
 
 a:hover, a:focus {
@@ -75,7 +76,7 @@ section {
 }
 
 .container {
-	width: 50%;
+	width: 90%;
 	margin: 0 auto;
 }
 
